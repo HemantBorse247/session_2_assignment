@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "name": "name1",
+        "email": "name1@mail.com",
+        "gender": "Male"
+    },
+    {
+        "id": 1,
+        "name": "name1",
+        "email": "name1@mail.com",
+        "gender": "Male"
+    },{
+        "id": 1,
+        "name": "name1",
+        "email": "name1@mail.com",
+        "gender": "Male"
+    },{
+        "id": 1,
+        "name": "name1",
+        "email": "name1@mail.com",
+        "gender": "Male"
+    },{
+        "id": 1,
+        "name": "name1",
+        "email": "name1@mail.com",
+        "gender": "Male"
+    },{
+        "id": 1,
+        "name": "name1",
+        "email": "name1@mail.com",
+        "gender": "Male"
+    },{
+        "id": 1,
+        "name": "name1",
+        "email": "name1@mail.com",
+        "gender": "Male"
+    }
+]
